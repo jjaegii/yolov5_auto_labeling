@@ -1,6 +1,6 @@
 # YOLOv5를 활용한 autolabeling
 
-YOLO의 pretrained model을 활용한 자동라벨링 기능입니다.
+[YOLOv5](https://github.com/ultralytics/yolov5)의 pretrained model을 활용한 자동라벨링 기능입니다.
 커스텀 모델을 활용하여 자동라벨링에 쓸 수 있습니다.
 
 label_results/
